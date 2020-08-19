@@ -1,0 +1,46 @@
+.noresize{    
+    resize: none;
+}
+#noresize{    
+    resize: none;   
+}
+.no-margin{
+    margin: 0px !important;
+}
+#b_enviar {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+#botoes{
+    margin-top: 1% !important;
+}
+#registro{
+    margin: 6% auto;
+}
+label.file-upload {
+    position: relative;
+    overflow: hidden
+}
+#email{
+    margin-top: 1%;
+}
+label.file-upload input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: 0;
+    background: #fff;
+    cursor: inherit;
+    display: block
+}
+#overflow_body {
+    overflow-y: overlay !important;
+}
+

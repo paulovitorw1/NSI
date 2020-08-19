@@ -1,0 +1,74 @@
+.noresize{
+    resize: none;
+}
+#noresize{
+    resize: none;
+
+}
+
+
+.no-margin{
+    margin: 0px !important;
+}
+.center-block {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#b_enviar {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+#botoes{
+    bottom: 15px;
+}
+
+#form-control{
+    border: 3px solid #ced4da !important;
+    border-radius: 7px;
+}
+
+
+/**fonte
+label.file-upload{position:relative;overflow:hidden}label.file-upload input[type=file]{position:absolute;top:0;right:0;min-width:100%;min-height:100%;font-size:100px;text-align:right;filter:alpha(opacity=0);opacity:0;outline:0;background:#fff;cursor:inherit;display:block}**/
+
+label.file-upload {
+	position: relative;
+	overflow: hidden
+}
+
+label.file-upload input[type=file] {
+	position: absolute;
+	top: 0;
+	right: 0;
+	min-width: 100%;
+	min-height: 100%;
+	font-size: 100px;
+	text-align: right;
+	filter: alpha(opacity=0);
+	opacity: 0;
+	outline: 0;
+	background: #fff;
+	cursor: inherit;
+	display: block
+}
+/* CSS PARA AS CAIXA DE BLOCO E O QUE*/
+#sel1 {
+    width: 152px;
+    margin-right: 22px;
+}
+#bloco{
+    width: 193px;
+    margin-right: 22px;
+}
+/*------FIM---------*/
+.form-group {
+    margin-bottom: .5rem;
+}
+
+.form-control:focus {
+  border-color: ##007bff;
+}
+

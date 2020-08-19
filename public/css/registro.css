@@ -1,0 +1,43 @@
+.noresize{    
+    resize: none;
+}
+#noresize{    
+    resize: none;
+}
+#matricula{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    top: -9px;
+}
+.bootstrap-select > .dropdown-toggle.bs-placeholder, .bootstrap-select > .dropdown-toggle.bs-placeholder:hover, .bootstrap-select > .dropdown-toggle.bs-placeholder:focus, .bootstrap-select > .dropdown-toggle.bs-placeholder:active {
+    color: #999;
+    border: 1px solid #ced4da;
+}
+.ml-auto, .mx-auto {
+    margin-left: auto !important;
+    width: 70%;
+}
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+    border: 1px solid #ced4da;
+}
+#registro{
+    margin: 6% auto;
+}
+@media (min-width: 100px) and (max-width: 767px) { 
+    #overflow_body {
+        overflow-y: overlay !important;
+    }
+    .ml-auto, .mx-auto {
+        margin-left: auto !important;
+        width: 100%;
+    }
+}
+@media (min-width: 100px) and (max-width: 300px) { 
+    #overflow_body {
+        overflow-y: overlay !important;
+        background-size: 33% !important;
+
+    }
+}

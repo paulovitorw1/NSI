@@ -1,0 +1,46 @@
+#id_bd{
+    width: 1% !important;
+    text-align: center;
+}
+#matricula{
+    width: 1% !important;
+    text-align: center;
+}
+#nome{
+    width: 4% !important;
+    text-align: center;
+}
+#date{
+    width: 3% !important;
+    text-align: center;
+}
+#comentario{
+    width: 30% !important;
+    text-align: center;
+}
+#imagem{
+    width: 1% !important;
+    text-align: center;
+}
+#acoes{
+    width: 1% !important;
+}
+
+.tr.td{
+    text-align: center;
+}
+
+#img_denuncia{
+    cursor: pointer;
+    height: 40px;
+    border-radius: 4px;
+}
+
+img {
+    width: 101%;
+}
+
+.modal-title {
+    position: absolute;
+}
+

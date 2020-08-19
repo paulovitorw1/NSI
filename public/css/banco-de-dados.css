@@ -1,0 +1,68 @@
+#id_usuario{
+
+}
+#nome_bd{
+
+}
+#acoes {
+    width: 217px !important;
+}
+#registrar_editar{
+    float: right;
+}
+
+#btn_novo_user {
+    float: right;
+    margin-right: 0.7%;
+}
+.bootstrap-select > .dropdown-toggle.bs-placeholder, .bootstrap-select > .dropdown-toggle.bs-placeholder:hover, .bootstrap-select > .dropdown-toggle.bs-placeholder:focus, .bootstrap-select > .dropdown-toggle.bs-placeholder:active {
+    color: #999;
+    border: 1px solid #ced4da;
+}
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+    border: 1px solid #ced4da;
+}
+#MeuModalErro{
+    padding-right: 15px !important;
+}
+#MeuModalSucesso{
+    padding-right: 15px !important;
+}
+#registrar_banco{
+    float: right;
+}
+#btn_abrir_bd{
+    background-color: #28a745;
+    text-align: center;
+}
+#btn_editar_bd{
+    background-color: #ffc107!important;
+    text-align: center;
+}
+
+
+@media (min-width: 914px) and (max-width: 961px) { 
+    #btn_abrir_bd{
+        font-size: 85%;
+    }
+    #btn_editar_bd{
+        font-size: 85%;
+    }
+    #btn_apagar_bd{
+        font-size: 85%;
+    }
+
+}
+#tableBD{
+    text-align: center !important;
+}
+#tableBD tbody tr td:last-child{
+    text-align: center !important;
+}
+#tableBD thead tr {
+    text-align: center !important;
+}
+.form-control:disabled, .form-control[readonly] {
+    background-color: #ffffff !important;
+}

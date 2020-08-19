@@ -1,0 +1,50 @@
+#select_user {
+    left: 30%;
+    bottom: -38px;    
+}
+
+#user{
+    
+}
+#user_foto{
+    height: 235px;
+    border-radius: 62%;
+    width: 231px;
+}
+
+#foto_tecn{
+    position: relative;
+    left: 20px;
+    height: 235px;
+    border-radius: 62%;
+    width: 231px;
+}
+   
+
+#user_nome{
+padding-left: 10%;
+}
+
+#nome_aluno{
+    padding-left: 30%;
+    
+}
+
+#nome_tecn{
+    width: 110%;
+    padding-left: 0%;
+    
+}
+
+.carousel {
+    position: relative;
+    margin: 10px 25px 0px 25px;
+    bottom: -137px;
+}
+
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    border-radius: 15px;
+}

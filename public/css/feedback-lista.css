@@ -1,0 +1,53 @@
+.noresize{    
+    resize: none;
+}
+#noresize{    
+    resize: none;
+}
+
+.no-margin{
+    margin: 0px !important;
+}
+.center-block {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#id_feedback{
+    width: 1% !important;
+}
+#nome{
+    width: 8% !important;
+    text-align: center;
+}
+#email{
+    width: 15% !important;
+    text-align: center;
+}
+#comentario{
+    
+}
+#data{
+    width: 12%;
+}
+#imagem{
+    width: 1% !important;
+    text-align: center;
+}
+
+.img_denuncia{
+    cursor: pointer;
+    height: 40px;
+    border-radius: 4px;
+}
+img {
+    width: 100%;
+}
+.modal-title {
+    position: absolute;
+    line-height: 0.5;
+}
+.modal-header {
+    padding: 21px;
+}

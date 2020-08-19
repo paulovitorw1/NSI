@@ -1,0 +1,12 @@
+.card-header:first-child {
+    width: 109% !important;
+    position: relative !important;
+    left: -14px !important;
+}
+#cadastro{
+    text-align: center !important;
+}
+#caixa_login{
+    margin: 15% auto;
+}
+  
